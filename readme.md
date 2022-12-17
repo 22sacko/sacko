@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 c'est là qu'on a commencé github donc le le prmier commit
 
 new line for trying "git pull 'origin'" command
+
+new line for branch "update-readme"
